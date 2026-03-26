@@ -36,11 +36,15 @@
 
 ### Environments I work with:
 
-<a href="#"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="42"></a>
-<a href="#"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
-<a href="#"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="42"></a>
-<a href="#"><img alt="Nmap" title="Nmap" src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png" height="42"></a>
+### Environments I work with:
 
+<a href="#"><img alt="Arch Linux" title="Arch Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/arch-linux/arch-linux.png" height="42"></a>
+<a href="#"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
+<a href="#"><img alt="Fedora" title="Fedora" src="https://raw.githubusercontent.com/github/explore/main/topics/fedora/fedora.png" height="42"></a>
+<a href="#"><img alt="Kali Linux" title="Kali Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png" height="42"></a>
+<a href="#"><img alt="Windows Server" title="Windows Server" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" height="42"></a>
+<a href="#"><img alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="42"></a>
+<a href="#"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="42"></a>
 ---
 
 ## Projects
