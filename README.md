@@ -19,10 +19,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
 ### Languages/Frameworks I'm good at:
-
+<a href="#"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
 <a href="#"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="42"></a>
-<a href="#"><img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" height="42"></a>
-<a href="#"><img alt="Laravel" title="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" height="42"></a>
 <a href="#"><img alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="42"></a>
 <a href="#"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="42"></a>
 <a href="#"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="42"></a>
@@ -30,9 +28,10 @@
 
 ### Languages/Frameworks I'm learning:
 
-<a href="#"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
-<a href="#"><img alt="Wireshark" title="Wireshark" src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png" height="42"></a>
-<a href="#"><img alt="Security" title="Security" src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" height="42"></a>
+<a href="#"><img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" height="42"></a>
+<a href="#"><img alt="Laravel" title="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" height="42"></a>
+
+
 
 
 
