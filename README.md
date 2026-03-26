@@ -2,13 +2,42 @@
 
 ## About Me
 
-<p align="justify">I am a cybersecurity student focused on network security, SOC operations, and backend development.</p>
+<p align="justify">
+I am a cybersecurity student focused on SOC operations, backend development, and embedded systems.
+</p>
 
-<p align="justify">I started my journey with networking, completing CCNA with hands-on labs and real-world scenarios. Over time, I expanded into Linux systems and backend development using Laravel, building applications and understanding how systems operate internally.</p>
+---
 
-<p align="justify">My goal is to not only build systems, but also understand how to attack and secure them. I enjoy analyzing network traffic, working with logs, and thinking from both attacker and defender perspectives.</p>
+## 🔐 Security
 
-<p align="justify">Recently, I’ve been working on practical security projects such as network scanners, log analyzers, and secure web applications to simulate real-world environments.</p>
+<p align="justify">
+I’m particularly interested in SOC (Security Operations Center), including log analysis, threat detection, and monitoring real-world attacks.
+I enjoy analyzing network traffic and thinking from both attacker and defender perspectives.
+</p>
+
+---
+
+## 🐧 Linux & Systems
+
+<p align="justify">
+I work with Linux systems on a daily basis and enjoy understanding how systems operate internally.
+I have experience with distributions like Arch, Ubuntu, Fedora, and Kali Linux, and I use them for development, networking, and security testing.
+</p>
+
+---
+## ⚙️ Embedded & Low-Level
+
+<p align="justify">
+I’m interested in Embedded Linux and low-level programming using C/C++, focusing on how hardware and software interact.
+</p>
+
+---
+
+## 🤖 RAG & Intelligent Systems
+
+<p align="justify">
+I’m exploring RAG (Retrieval-Augmented Generation) and how to build intelligent systems that combine data retrieval with AI to produce useful insights.
+</p>
 
 ---
 
