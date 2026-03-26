@@ -21,8 +21,6 @@
 ### Languages/Frameworks I'm good at:
 <a href="#"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
 <a href="#"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="42"></a>
-<a href="#"><img alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="42"></a>
-<a href="#"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="42"></a>
 <a href="#"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="42"></a>
 <a href="#"><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="42"></a>
 
