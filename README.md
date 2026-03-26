@@ -1,62 +1,63 @@
-<h1>Khaled <img align="right" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"></h1>
+<h1>Khaled <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"></h1>
 
 ## About Me
 
-Cybersecurity student focused on Network Security, SOC, and Backend Development.
+<p align="justify">I am a cybersecurity student focused on network security, SOC operations, and backend development.</p>
 
-I have hands-on experience with networking (CCNA), Linux systems, and building backend applications using Laravel.  
-Currently, I'm developing practical security projects that simulate real-world attacks and defenses.
+<p align="justify">I started my journey with networking, completing CCNA with hands-on labs and real-world scenarios. Over time, I expanded into Linux systems and backend development using Laravel, building applications and understanding how systems operate internally.</p>
 
-My goal is to work in a professional security environment where I can build, break, and secure systems.
+<p align="justify">My goal is to not only build systems, but also understand how to attack and secure them. I enjoy analyzing network traffic, working with logs, and thinking from both attacker and defender perspectives.</p>
+
+<p align="justify">Recently, I’ve been working on practical security projects such as network scanners, log analyzers, and secure web applications to simulate real-world environments.</p>
 
 ---
 
-## Skills
+## My Skills
 
-### 🔐 Cybersecurity
-- Network Analysis (Wireshark, TCP/IP)
-- Basic SOC Operations & Log Analysis
-- Vulnerability Assessment (beginner level)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=github_dark" align="right" width="295">
 
-### 💻 Development
-- PHP (Laravel)
-- Basic Python scripting
-- SQL & Database Design
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
-### ⚙️ Systems & Tools
-- Linux (Ubuntu, CLI, Bash)
-- Git & GitHub
-- Networking (Routing, Switching - CCNA level)
+### Languages/Frameworks I'm good at:
+
+<a href="#"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="42"></a>
+<a href="#"><img alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" height="42"></a>
+<a href="#"><img alt="Laravel" title="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" height="42"></a>
+<a href="#"><img alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="42"></a>
+<a href="#"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="42"></a>
+<a href="#"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="42"></a>
+<a href="#"><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="42"></a>
+
+### Languages/Frameworks I'm learning:
+
+<a href="#"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42"></a>
+<a href="#"><img alt="Wireshark" title="Wireshark" src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png" height="42"></a>
+<a href="#"><img alt="Security" title="Security" src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" height="42"></a>
+
+### Environments I work with:
+
+<a href="#"><img alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="42"></a>
+<a href="#"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" height="42"></a>
+<a href="#"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="42"></a>
+<a href="#"><img alt="Nmap" title="Nmap" src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png" height="42"></a>
 
 ---
 
 ## Projects
 
-### 🔍 Network Scanner
-Simple tool that scans network devices and identifies open ports.
-
-### 📊 Log Analyzer (Mini SOC)
-Analyzes logs and detects suspicious activity patterns.
-
-### 🌐 Secure Web App (Laravel)
-Web application with authentication, validation, and basic security practices.
+- 🔍 Network Scanner  
+- 📊 Log Analyzer (Mini SOC)  
+- 🌐 Secure Web App (Laravel)  
 
 ---
 
-## Currently Learning
+## Recent GitHub Activity
 
-- Advanced SOC & Incident Response  
-- Python for Security Automation  
-- Backend Security (OWASP Top 10)
-
----
-
-## Goal
-
-To become a Security Engineer capable of defending and testing real systems.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## GitHub Stats
+## Show your support
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+Follow me if you like my work 😄
