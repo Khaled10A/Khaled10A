@@ -1,4 +1,4 @@
-<h1>Khaled <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"></h1>
+<h1>Khaled Alnajjar </h1>
 
 ## About Me
 
