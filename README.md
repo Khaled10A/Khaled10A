@@ -3,19 +3,12 @@
 ## About Me
 
 <p align="justify">
-I am a cybersecurity student focused on SOC operations, backend development, and embedded systems.
+I am a cybersecurity student focused on SOC operations, backend development .
 </p>
 
 ---
 
-## 🔐 Security
 
-<p align="justify">
-I’m particularly interested in SOC (Security Operations Center), including log analysis, threat detection, and monitoring real-world attacks.
-I enjoy analyzing network traffic and thinking from both attacker and defender perspectives.
-</p>
-
----
 
 ## 🐧 Linux & Systems
 
@@ -31,15 +24,7 @@ I have experience with distributions like Arch, Ubuntu, Fedora, and Kali Linux, 
 I’m interested in Embedded Linux and low-level programming using C/C++, focusing on how hardware and software interact.
 </p>
 
----
 
-## 🤖 RAG & Intelligent Systems
-
-<p align="justify">
-I’m exploring RAG (Retrieval-Augmented Generation) and how to build intelligent systems that combine data retrieval with AI to produce useful insights.
-</p>
-
----
 
 ## My Skills
 
