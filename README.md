@@ -3,7 +3,6 @@
 ## About Me
 
 <p align="justify">
-I am a cybersecurity student focused on SOC operations, backend development .
 </p>
 
 ---
