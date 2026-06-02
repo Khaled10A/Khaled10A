@@ -1,6 +1,5 @@
 <h1>Khaled Alnajjar </h1>
 
-## About Me
 
 <p align="justify">
 </p>
